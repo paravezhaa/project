@@ -1,0 +1,58 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    padding-top: 70px;
+}
+
+/* Pink Theme */
+.text-pink {
+    color: #ea4c89;
+}
+
+.btn-pink {
+    background-color: #ea4c89;
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px 25px;
+}
+
+.btn-pink:hover {
+    background-color: #d83c74;
+    color: #fff;
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, #fdf0f6, #f9f8fd);
+    padding: 100px 20px;
+}
+
+/* Cards */
+.design-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+
+.design-card img {
+    width: 100%;
+}
+
+.design-card:hover {
+    transform: translateY(-6px);
+}
+
+/* CTA Section */
+.cta-section {
+    background-color: #ea4c89;
+    color: white;
+    padding: 70px 20px;
+}
+
+/* Footer */
+.footer {
+    background-color: #111;
+    color: #ccc;
+    padding: 20px;
+}
