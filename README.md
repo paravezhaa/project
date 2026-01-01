@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-# Date:
+# Date: 12.12.2025
 # AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
@@ -70,6 +70,9 @@ html
         <p class="lead mt-3">
             Discover the world’s best UI, branding, and illustration work.
         </p>
+        <p class="text-muted">
+             <img src="sunmoon.jpg" alt="">
+             </p>
         <div class="mt-4">
             <a href="#" class="btn btn-pink btn-lg me-2">Get Started</a>
             <a href="#" class="btn btn-outline-dark btn-lg">Learn More</a>
@@ -197,6 +200,7 @@ body {
 
 ```
 # OUTPUT:
-![alt text](image.png)
+![alt text](<Screenshot 2026-01-01 132343.png>)
+![alt text](<Screenshot 2026-01-01 132402.png>)
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
